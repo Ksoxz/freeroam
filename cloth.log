@@ -1,0 +1,20 @@
+//admin admin
+user.setComponentVariation(player, 3, 15, 0);
+user.setComponentVariation(player, 4, 132, 0);
+user.setComponentVariation(player, 5, 23, 16);
+user.setComponentVariation(player, 6, 112, 2);
+user.setComponentVariation(player, 7, 0, 0);
+user.setComponentVariation(player, 8, 15, 0);
+user.setComponentVariation(player, 9, 0, 0);
+user.setComponentVariation(player, 10, 0, 0);
+user.setComponentVariation(player, 11, 15, 0);
+//Real clothes
+user.setComponentVariation(player, 3, 6, 0);
+user.setComponentVariation(player, 4, 132, 1);
+user.setComponentVariation(player, 5, 0, 0);
+user.setComponentVariation(player, 6, 75, 0);
+user.setComponentVariation(player, 7, 0, 0);
+user.setComponentVariation(player, 8, 0, 255);
+user.setComponentVariation(player, 9, 0, 0);
+user.setComponentVariation(player, 10, 0, 0);
+user.setComponentVariation(player, 11, 359, 0);
